@@ -54,7 +54,7 @@ func checkLuhn(s string) bool {
 			d *= 2
 		}
 
-		// we add two digits in the cases that make two digits after doubling the number
+		// add two digits in the cases that make two digits after doubling the number
 		sum += int(d) / 10
 		sum += int(d) % 10
 
