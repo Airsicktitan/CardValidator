@@ -1,30 +1,5 @@
-## 🤝 Contributing
+# Credit card validator
+This project is a solo project using the Luhn Algorithm to return if the card is valid or not.  It also returns the type of card entered. (Visa, MasterCard, Amex, etc)
 
-### Clone the repo
-
-```bash
-git clone https://github.com/xyz/zipzod@latest
-cd zipzod
-```
-
-### Build the project
-
-```bash
-go build
-```
-
-### Run the project
-
-```bash
-./zipzod -i ./input -o ./output.zip
-```
-
-### Run the tests
-
-```bash
-go test ./...
-```
-
-### Submit a pull request
-
-If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
+## Contributing
+Solo project
