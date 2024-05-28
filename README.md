@@ -2,4 +2,6 @@
 
 
 ## Contributing
+Solo project
+
 ### Clone the repo
